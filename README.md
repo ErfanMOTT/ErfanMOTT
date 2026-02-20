@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻 I'm a developer passionate about building modern, responsive web applications and integrating AI into creative solutions.  <br>🌱 Currently working with React, Django, and Python-based AI models.  <br>🚀 Always exploring new tools to blend frontend design with intelligent backend systems.<br>
+#  About Me:
+💻 I'm a developer passionate about building modern, responsive web applications and integrating AI into creative solutions.  <br> Currently working with React, Django, and Python-based AI models.  <br> Always exploring new tools to blend frontend design with intelligent backend systems.<br>
 
 
 ## 🌐 Socials:
