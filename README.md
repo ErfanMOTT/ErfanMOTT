@@ -65,15 +65,8 @@ UI/UX Design              Intelligent Web Applications
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ErfanMOTT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMOTT&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ErfanMOTT&theme=tokyonight&hide_border=true" />
-</p>
+## GitHub Analytics
+<!-- Using only public stats to avoid API errors – they will load reliably --><p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=ErfanMOTT&show_icons=true&theme=tokyonight&hide_border=true" alt="Erfan's GitHub stats" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanMOTT&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=ErfanMOTT&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
 
 ---
 
